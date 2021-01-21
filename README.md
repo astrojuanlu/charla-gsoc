@@ -25,6 +25,8 @@ Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.c
   - 09:00 a 10:00 hora de Argentina
   - 08:00 a 09:00 hora de Chile
   - 07:00 a 08:00 hora de Colombia
+- Descarga [el evento](https://github.com/astrojuanlu/charla-gsoc/raw/main/charla-gsoc.ics)
+  para importarlo a tu calendario (Google Calendar, Outlook, etc)
 
 ## Requisitos
 
