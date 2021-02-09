@@ -68,7 +68,9 @@ nbformat==5.1.2
 nest-asyncio==1.5.1
     # via nbclient
 notebook==6.2.0
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   rise
 packaging==20.9
     # via bleach
 pandocfilters==1.4.3
@@ -104,6 +106,8 @@ pyzmq==22.0.2
     # via
     #   jupyter-client
     #   notebook
+rise==5.7.1
+    # via -r requirements.in
 send2trash==1.5.0
     # via notebook
 six==1.15.0
