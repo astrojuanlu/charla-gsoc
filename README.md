@@ -7,7 +7,7 @@ Está abierto a estudiantes de multitud de nacionalidades.
 
 Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.com/).
 
-📣 Charla en vivo próximamente 📣
+📣 **Charla en vivo el 2020-09-21** (hora y enlace próximamente) 📣
 
 ## Contenidos
 
