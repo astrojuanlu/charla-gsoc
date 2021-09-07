@@ -7,7 +7,7 @@ Está abierto a estudiantes de multitud de nacionalidades.
 
 Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.com/).
 
-📣 **Charla en vivo el 2020-09-21** (hora y enlace próximamente) 📣
+📣 **Charla en vivo el 2020-09-02T12:00Z** (enlace próximamente) 📣
 
 ## Contenidos
 
@@ -21,7 +21,12 @@ Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.c
 
 ## Fecha
 
-(A concretar)
+- **2021-09-21T12:00Z/13:00Z**
+  - 14:00 a 15:00 hora peninsular de España
+  - 13:00 a 14:00 hora de Canarias
+  - 09:00 a 10:00 hora de Argentina
+  - 09:00 a 10:00 hora de Chile
+  - 07:00 a 08:00 hora de Colombia
 
 ## Requisitos
 
