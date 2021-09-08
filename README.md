@@ -7,7 +7,7 @@ Está abierto a estudiantes de multitud de nacionalidades.
 
 Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.com/).
 
-📣 **Charla en vivo el 2020-09-02T12:00Z** en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UC0hmJfbIx5sOtIMCBR8IEug) y [**Twitch.tv** / @astrojuanlu](https://www.twitch.tv/astrojuanlu) 📣
+📣 **Charla en vivo el 2021-09-21T12:00Z** en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UC0hmJfbIx5sOtIMCBR8IEug) y [**Twitch.tv** / @astrojuanlu](https://www.twitch.tv/astrojuanlu) 📣
 
 ## Contenidos
 
