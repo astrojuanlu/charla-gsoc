@@ -7,7 +7,7 @@ Está abierto a estudiantes de multitud de nacionalidades.
 
 Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.com/).
 
-📣 **Charla en vivo el 2021-09-21T12:00Z** en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UC0hmJfbIx5sOtIMCBR8IEug) y [**Twitch.tv** / @astrojuanlu](https://www.twitch.tv/astrojuanlu) 📣
+📣 **Charla en vivo el 2021-09-21T12:00Z**, [¡regístrate!](https://www.eventbrite.es/e/como-ganar-dinero-siendo-estudiante-gracias-a-google-summer-of-code-tickets-170120830985?aff=web) 📣
 
 ## Contenidos
 
@@ -38,6 +38,7 @@ Más información en [la web oficial](https://developers.google.com/open-source/
 
 ## Cómo participar
 
+- [**Regístrate a través de Eventbrite**](https://www.eventbrite.es/e/como-ganar-dinero-siendo-estudiante-gracias-a-google-summer-of-code-tickets-170120830985?aff=web)
 - Retransmisión en vivo en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UC0hmJfbIx5sOtIMCBR8IEug) y [**Twitch.tv** / @astrojuanlu](https://www.twitch.tv/astrojuanlu) (¡suscríbanse!)
   - La charla quedará grabada posteriormente
 - Para colaborar con poliastro pueden unirse a [**Matrix** / poliastro](http://chat.poliastro.space)
