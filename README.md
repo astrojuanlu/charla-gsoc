@@ -7,7 +7,7 @@ Está abierto a estudiantes de multitud de nacionalidades.
 
 Más información oficial en [la web del GSOC](https://summerofcode.withgoogle.com/).
 
-📣 **Charla en vivo el 2020-09-02T12:00Z** (enlace próximamente) 📣
+📣 **Charla en vivo el 2020-09-02T12:00Z** en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UC0hmJfbIx5sOtIMCBR8IEug) y [**Twitch.tv** / @astrojuanlu](https://www.twitch.tv/astrojuanlu) 📣
 
 ## Contenidos
 
@@ -38,7 +38,7 @@ Más información en [la web oficial](https://developers.google.com/open-source/
 
 ## Cómo participar
 
-- Retransmisión en vivo en **YouTube** / @astrojuanlu (¡suscríbanse!)
+- Retransmisión en vivo en [**YouTube** / @astrojuanlu](https://www.youtube.com/channel/UC0hmJfbIx5sOtIMCBR8IEug) y [**Twitch.tv** / @astrojuanlu](https://www.twitch.tv/astrojuanlu) (¡suscríbanse!)
   - La charla quedará grabada posteriormente
 - Para colaborar con poliastro pueden unirse a [**Matrix** / poliastro](http://chat.poliastro.space)
 - Para preguntar dudas sobre Python pueden unirse a [**Telegram** / Python en Español](https://t.me/PythonEsp),
